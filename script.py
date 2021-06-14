@@ -3,18 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+വെറുതെ സ്റ്റാർട്ട് നോക്കി പൊട്ടിക്കണ്ട ഞാൻ @CYBER_YT1 യുടെ അടിമയാണ് 
+നിങ്ങൾക് എന്തേലും സംശയം ഉണ്ടേൽ 
+എൻ്റെ മുതലാളിക് മെസ്സേജ് അയച്ചുനോക്കു
+ ചിലപ്പോൾ REPLAY തരും <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>മാമനോടൊന്നും തോന്നലെ ഫിൽറ്റർ പണിക്കു വന്നതാണെ....😜??</b>
 
 <i>
 * Add bot to your group with admin rights.
@@ -53,17 +48,15 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @CYBER_YT1</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @CYBER_YT1
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
 
 """
